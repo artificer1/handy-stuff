@@ -1,0 +1,4 @@
+## Be sure to run a chmod 777 on it!
+apt-get update
+apt-get upgrade
+reboot
